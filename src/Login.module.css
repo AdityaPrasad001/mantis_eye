@@ -1,0 +1,14 @@
+.form {
+  background-color: #fff;
+  padding: 3rem;
+  border-radius: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 0 0 10px 5px rgb(173, 169, 226);
+}
+
+.row {
+  color: rgb(57, 53, 116);
+  margin: 0.5rem 0rem;
+}
